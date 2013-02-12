@@ -1,5 +1,5 @@
 body {
-  background: lightblue;
+  background: lightwhite;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
@@ -9,7 +9,7 @@ a {
   color: #2f84c2;
 }
 a:hover {
-  color: red;
+  color: green;
 }
 header {
   padding: 3em 0px 3em 0px;
@@ -22,10 +22,10 @@ nav a:hover {
   color: #ededed;
 }
 h1 {
-  font-size: 3em;
+  font-size: 5em;
 }
 h2 {
-  font-size: 2.5em;
+  font-size: 5em;
 }
 h3 {
   font-size: 2em;
@@ -77,7 +77,7 @@ a.logo:hover {
 }
 div.panel {
   border-radius: 15px;
-  background: lightgreen;
+  background: lightblue;
   /*background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%); 
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
   background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%); */
