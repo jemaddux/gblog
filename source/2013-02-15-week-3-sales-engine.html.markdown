@@ -1,0 +1,15 @@
+---
+title: Week 3 - Sales Engine
+date: 2013-02-15 09:03 -07:00
+tags:
+---
+
+This week we have started working on a new project called SalesEngine. It is a program that takes CSV data files and (when we are done) turns them into objects that returns information on them in an API format to another program or user. It has also been a chance to start using modules in our coding as we are making a program that is sufficiently big to use them. Modules are pieces of code that you write once and reuse in other parts of your code so that you can give the same functionality to different parts of the program without having to rewrite code.    
+
+We have also been using this as the first project where we are using test driven development to build our code. I have enjoyed it because by building out the programm the TDD way we can easily test and see which parts of the program any new changes are breaking. This allows us to build out new parts of the program and to not be surprised when some part of the program stops working for unknown reasons (and then spend hours trying to figure out exactly where the code is broken).
+
+Another change to our coding style this week has been working in pairs for our coding. I have been working with Kyle (who you can find over at [KyleSuss.com](http://www.kylesuss.com/))for this project. The question with pair programming is always how to divide the work up in a way that you can actually improve your productivity instead of just having two people hammer away at the same code and duplicate each other's work. I think that we have been pretty smart about how we have paired so far. We started out by building up the CSV importer and a basic class together so that we would both be clear on how we wanted the program to function. After that we started dividing up the work but our pairing has always functioned well together since we spent that time upfront working on the program and talking about it. Also we still talk back and forth about different parts of the code so that we can se what each other is doing and how that will affect the parts of the code that we are writing. I think that this communication will be the hardest thing the scale up to a larger group.
+
+I have been here just shy of three weeks now and learned lots more than I thought I would at this point. Still don't feel like a developer yet but I feel like I can tackle much larger problems than I would have been able to before coming here. With twenty-one weeks left in the program I am still looking forward to diving into Rails. I want to put programs out there on the web and not just blogs like this one. I can see why we aren't building web apps quite yet though. I thought we would be getting into them earlier but it takes time to not only learn about Ruby and programming tehniques but to learn all of the tools that are available and how to make use of them. The biggest help when I get stuck is still my peers but stackoverflow is a close second in terms of how much it helps.
+
+-John Maddux
