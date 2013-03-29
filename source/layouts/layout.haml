@@ -38,7 +38,7 @@
           %dd.active
             %a{href: "#recent"} Recent Articles
           %dd
-            %a{href: "#tags"} Tags
+            %a{href: "#tags"} Resume
         %ul.tabs-content
           %li#recentTab.active
             %h4 Recent Articles
@@ -49,9 +49,18 @@
                     = article.title
                   %span= article.date.strftime('%b %e')
           %li#tagsTab
-            %h4 Tags
+            %h4 Resume
             %ul.disc
-              - blog.tags.each do |tag, articles|
+              - 1.times do |tag, articles|
                 %li
-                  %a{href: "#{tag_path tag}"}
-                    = "#{tag} (#{articles.size})"
+                  %a{href: "/resume.html"}
+                    = "John's Resume"
+
+
+
+
+
+
+
+
+
