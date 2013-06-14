@@ -1,5 +1,5 @@
 ---
-title: SupportMe and Jobs
+title: Jobs
 date: 2013-06-14 14:27 -06:00
 tags:
 ---
