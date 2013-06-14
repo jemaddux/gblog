@@ -4,12 +4,10 @@ date: 2013-06-14 14:27 -06:00
 tags:
 ---
 
-Services Project
-How’s it feel to be back in a group? Did you learn any lessons working on your own that you’re now bringing through the group?
-Do you feel like you’re understanding the concept of services? What makes sense and what’s still confusing?
-Have you dug into using websockets with Faye? How has it gone so far?
+We (gSchoolers) have five weeks until we are done with the program and are unceremoniously shoved out of the door in to the cold cruel world....
 
-Job Hunt
-How’s the job hunt going? Have you applied for jobs? Interviewed? Any lessons learned?
-What are your next steps to finding a great job?
-What things have you observed, from shadowing or guest speakers, that appeal to you about companies? What things have turned you off?
+Fortunately this world has tons of awesome jobs for to apply for where we can continue to build really cool things. So far I have applied for around 10 jobs so far and I have heard back from one that had filled the position before I even got my resume off. It is still early and I am surprised how many web development jobs there are out there (which is great for me and the other gSchoolers) so I'm not too worried. I'll find something good.
+
+Applying to jobs and talking to recruiters keeps making me rethink the way that I present myself and how I work at showing off what my strengths are without boasting or overstating/understating my skills. I am also learning what questions to ask about the companies to get a sense of what they are like, how they treat their employees and if these are places I would want to work for. So I think the next steps in the job application process are to just keep on going until I find some jobs that I am sure that I like and work hard to get them.
+
+So far the companies that look the best to me are the ones that give their developers responsibility and control over how they approach their work and let the developers grow into that trust. It seems to me that part of being a developer is being able to make independent decisions on the fly and learn from them.
